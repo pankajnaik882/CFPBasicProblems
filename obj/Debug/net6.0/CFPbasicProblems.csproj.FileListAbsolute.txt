@@ -1,0 +1,15 @@
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\bin\Debug\net6.0\CFPbasicProblems.exe
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\bin\Debug\net6.0\CFPbasicProblems.deps.json
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\bin\Debug\net6.0\CFPbasicProblems.runtimeconfig.json
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\bin\Debug\net6.0\CFPbasicProblems.dll
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\bin\Debug\net6.0\CFPbasicProblems.pdb
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.csproj.AssemblyReference.cache
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.AssemblyInfoInputs.cache
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.AssemblyInfo.cs
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.csproj.CoreCompileInputs.cache
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.dll
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\refint\CFPbasicProblems.dll
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.pdb
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\CFPbasicProblems.genruntimeconfig.cache
+C:\Users\Pankyayyy\Documents\CFP BATCH\CFPbasicProblems\obj\Debug\net6.0\ref\CFPbasicProblems.dll
